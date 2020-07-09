@@ -1,6 +1,6 @@
 import cx_Freeze
 
-executables = [cx_Freeze.Executable("tut1.py")]
+executables = [cx_Freeze.Executable("tut2_0.py")]
 
 cx_Freeze.setup(
     name="A bit Racey",
